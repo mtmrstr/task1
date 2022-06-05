@@ -10,6 +10,7 @@ header{
 main{
   margin-top:50px;
   margin-bottom: 50px;
+  width: 960px;
 }
 .img1{
   height: 150px;
@@ -23,7 +24,7 @@ main{
 }
 .img3{
   height: 150px;
-  width: 300px
+  width: 300px;
   background-image: url(img/flow03.png);
 }
 footer{
