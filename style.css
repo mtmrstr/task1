@@ -12,6 +12,9 @@ main{
   margin-bottom: 50px;
   width: 960px;
 }
+a{
+  color: #FF9A4B;
+}
 .img1{
   height: 150px;
   width: 300px;
