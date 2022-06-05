@@ -11,6 +11,18 @@ main{
   margin-top:50px;
   margin-bottom: 50px;
 }
+.img1{
+  height: 90px;
+  background-image: url(img/flow01.png);
+}
+.img2{
+  height: 90px;
+  background-image: url(img/flow02.png);
+}
+.img3{
+  height: 90px;
+  background-image: url(img/flow03.png);
+}
 footer{
   height: 50px;
   background-color: #AAAAAA;
